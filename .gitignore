@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/IdentityTest/.vs
+/IdentityTest/IdentityTests.EFCore/bin/Debug/net8.0
+/IdentityTest/IdentityTests.EFCore/obj
